@@ -5,12 +5,24 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Modul02", "Modul02\Modul02.
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ReadFromComandLine", "ReadFromComandLine\ReadFromComandLine.csproj", "{811D37E0-DDEA-46B2-A2D9-5ADADDCF77CF}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MyTries02-06", "MyTries02-06\MyTries02-06.csproj", "{5DABDA6C-1364-4BD7-9820-E76EF9E24DC0}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TableProject", "TableProject\TableProject.csproj", "{01C7BA95-87F0-475D-9754-C5A3A2CD4B70}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|x86 = Debug|x86
 		Release|x86 = Release|x86
 	EndGlobalSection
 	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{01C7BA95-87F0-475D-9754-C5A3A2CD4B70}.Debug|x86.ActiveCfg = Debug|x86
+		{01C7BA95-87F0-475D-9754-C5A3A2CD4B70}.Debug|x86.Build.0 = Debug|x86
+		{01C7BA95-87F0-475D-9754-C5A3A2CD4B70}.Release|x86.ActiveCfg = Release|x86
+		{01C7BA95-87F0-475D-9754-C5A3A2CD4B70}.Release|x86.Build.0 = Release|x86
+		{5DABDA6C-1364-4BD7-9820-E76EF9E24DC0}.Debug|x86.ActiveCfg = Debug|x86
+		{5DABDA6C-1364-4BD7-9820-E76EF9E24DC0}.Debug|x86.Build.0 = Debug|x86
+		{5DABDA6C-1364-4BD7-9820-E76EF9E24DC0}.Release|x86.ActiveCfg = Release|x86
+		{5DABDA6C-1364-4BD7-9820-E76EF9E24DC0}.Release|x86.Build.0 = Release|x86
 		{811D37E0-DDEA-46B2-A2D9-5ADADDCF77CF}.Debug|x86.ActiveCfg = Debug|x86
 		{811D37E0-DDEA-46B2-A2D9-5ADADDCF77CF}.Debug|x86.Build.0 = Debug|x86
 		{811D37E0-DDEA-46B2-A2D9-5ADADDCF77CF}.Release|x86.ActiveCfg = Release|x86
