@@ -2,10 +2,7 @@
   <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug|x86" />
   <MonoDevelop.Ide.Workbench ActiveDocument="TableProject\Program.cs">
     <Files>
-      <File FileName="Modul02\Program.cs" Line="12" Column="37" />
-      <File FileName="ReadFromComandLine\Program.cs" Line="23" Column="17" />
-      <File FileName="MyTries02-06\Program.cs" Line="15" Column="36" />
-      <File FileName="TableProject\Program.cs" Line="9" Column="33" />
+      <File FileName="TableProject\Program.cs" Line="31" Column="22" />
     </Files>
   </MonoDevelop.Ide.Workbench>
   <MonoDevelop.Ide.DebuggingService.Breakpoints>
