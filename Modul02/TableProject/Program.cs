@@ -13,10 +13,10 @@ namespace TableProject
 			string[,] table = new string[2, 3];
 				
 			//Въвеждане на първи ред
-			table[0, (int) ti.ime] = "Hristo"; table[0, (int) ti.familia] = "Hristov"; table[0, (int) ti.godini] = "31";
+			table[0, (int) ti.ime] = "Hristo"; table[0, (int) ti.familia] = "Hristov"; table[0, (int) ti.godini] = "41";
 
 			//Въвеждане на втори ред
-			table[1, (int) ti.ime] = "Svetlio"; table[1, (int) ti.familia] = "Hristov"; table[1, (int) ti.godini] = "41";
+			table[1, (int) ti.ime] = "Svetlio"; table[1, (int) ti.familia] = "Hristov"; table[1, (int) ti.godini] = "42";
 
 			//Печат
 			Console.Write ("Кой ред искате да видите: ");
@@ -24,6 +24,7 @@ namespace TableProject
 
 			Console.WriteLine ((table[_index, (int) ti.ime])[0] + "." + table[_index, (int) ti.familia] + ", " + table[_index, (int) ti.godini] + "g.");
 
+			Console.ReadKey ();
 		}
 	}
 }
