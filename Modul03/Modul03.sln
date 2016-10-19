@@ -5,6 +5,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Modul03", "Modul03\Modul03.
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BoolExplore", "BoolExplore\BoolExplore.csproj", "{F161B89A-70E2-4CFD-BD92-8F10304F250E}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BoolExplore2", "BoolExplore2\BoolExplore2.csproj", "{C1D6ACC4-DFE7-4672-8108-4B7C316A9EBB}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|x86 = Debug|x86
@@ -15,6 +17,10 @@ Global
 		{529C59DE-BC16-4F29-95E3-EFBAFD82032C}.Debug|x86.Build.0 = Debug|x86
 		{529C59DE-BC16-4F29-95E3-EFBAFD82032C}.Release|x86.ActiveCfg = Release|x86
 		{529C59DE-BC16-4F29-95E3-EFBAFD82032C}.Release|x86.Build.0 = Release|x86
+		{C1D6ACC4-DFE7-4672-8108-4B7C316A9EBB}.Debug|x86.ActiveCfg = Debug|x86
+		{C1D6ACC4-DFE7-4672-8108-4B7C316A9EBB}.Debug|x86.Build.0 = Debug|x86
+		{C1D6ACC4-DFE7-4672-8108-4B7C316A9EBB}.Release|x86.ActiveCfg = Release|x86
+		{C1D6ACC4-DFE7-4672-8108-4B7C316A9EBB}.Release|x86.Build.0 = Release|x86
 		{F161B89A-70E2-4CFD-BD92-8F10304F250E}.Debug|x86.ActiveCfg = Debug|x86
 		{F161B89A-70E2-4CFD-BD92-8F10304F250E}.Debug|x86.Build.0 = Debug|x86
 		{F161B89A-70E2-4CFD-BD92-8F10304F250E}.Release|x86.ActiveCfg = Release|x86

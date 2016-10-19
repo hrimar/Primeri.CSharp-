@@ -8,7 +8,7 @@ namespace BoolExplore
 		{
 			int[] i = new int[] { 4, 3, 2 };
 
-			int ui = Convert.ToInt32 ( Console.ReadLine ());
+			int ui = 0; // Convert.ToInt32 ( Console.ReadLine ());
 			string input = "0";
 
 			Console.Write ("Моля въведете индекс: ");
