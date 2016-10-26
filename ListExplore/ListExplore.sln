@@ -1,0 +1,17 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2012
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ListExplore", "ListExplore\ListExplore.csproj", "{6FCD42D6-52E4-471C-A6F5-3AB1CC0B717A}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x86 = Debug|x86
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{6FCD42D6-52E4-471C-A6F5-3AB1CC0B717A}.Debug|x86.ActiveCfg = Debug|x86
+		{6FCD42D6-52E4-471C-A6F5-3AB1CC0B717A}.Debug|x86.Build.0 = Debug|x86
+		{6FCD42D6-52E4-471C-A6F5-3AB1CC0B717A}.Release|x86.ActiveCfg = Release|x86
+		{6FCD42D6-52E4-471C-A6F5-3AB1CC0B717A}.Release|x86.Build.0 = Release|x86
+	EndGlobalSection
+EndGlobal

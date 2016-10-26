@@ -1,0 +1,4 @@
+C:\Users\ECI\Documents\Projects\ListExplore\ListExplore\bin\Debug\ListExplore.exe
+C:\Users\ECI\Documents\Projects\ListExplore\ListExplore\bin\Debug\ListExplore.pdb
+C:\Users\ECI\Documents\Projects\ListExplore\ListExplore\obj\x86\Debug\ListExplore.exe
+C:\Users\ECI\Documents\Projects\ListExplore\ListExplore\obj\x86\Debug\ListExplore.pdb

@@ -1,0 +1,4 @@
+C:\Users\ECI\Documents\Projects\Modul04\Modul04\bin\Debug\Modul04.exe
+C:\Users\ECI\Documents\Projects\Modul04\Modul04\bin\Debug\Modul04.pdb
+C:\Users\ECI\Documents\Projects\Modul04\Modul04\obj\x86\Debug\Modul04.exe
+C:\Users\ECI\Documents\Projects\Modul04\Modul04\obj\x86\Debug\Modul04.pdb
