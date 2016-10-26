@@ -2,3 +2,7 @@ C:\Users\ECI\Documents\Projects\ListExplore\ListExplore\bin\Debug\ListExplore.ex
 C:\Users\ECI\Documents\Projects\ListExplore\ListExplore\bin\Debug\ListExplore.pdb
 C:\Users\ECI\Documents\Projects\ListExplore\ListExplore\obj\x86\Debug\ListExplore.exe
 C:\Users\ECI\Documents\Projects\ListExplore\ListExplore\obj\x86\Debug\ListExplore.pdb
+C:\aula\primeri.csharp.terminal\ListExplore\ListExplore\obj\x86\Debug\ListExplore.exe
+C:\aula\primeri.csharp.terminal\ListExplore\ListExplore\bin\Debug\ListExplore.exe
+C:\aula\primeri.csharp.terminal\ListExplore\ListExplore\bin\Debug\ListExplore.pdb
+C:\aula\primeri.csharp.terminal\ListExplore\ListExplore\obj\x86\Debug\ListExplore.pdb
