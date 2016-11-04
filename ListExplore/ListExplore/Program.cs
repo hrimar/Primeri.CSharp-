@@ -16,15 +16,31 @@ namespace ListExplore
 			list.Add (3);
 			list.Add (9);
 
-			//Потребителски шход
+			//Потребителски вход
 			do {
-				Console.WriteLine("? ");
+				Console.Write("? ");
 				userinput = Console.ReadLine ();
 
 				//Добавяне на стойности
+				// адд <int>   - да се вавеждат ст-ти от този тип
 
+				if (userinput.ToLower().Contains("add"))  // с ToLower - даваме възможност да се пише и с главни букви
+				{
+					try
+					{
+						int add=0;
+						if ( int.TryParse (userinput.Split (' ')[1], out add))
+						{         // ако потребителя въведе add, Add или ADD, пауза и qисло, то щесе добави към систа
+								 // но ако напише add и повече паузи, няма да се добави
+							list.Add(add);
+						}
+						Console.WriteLine("");
+					}catch {}
+				} 
+					
+				
 				//Преглед на List
-				if (userinput.Contains ("show"))
+					if (userinput.ToLower().Contains ("show"))
 				{
 					Console.Write ("list: ");
 					for (int i=0; i<list.Count; i++)
@@ -32,10 +48,15 @@ namespace ListExplore
 						Console.Write (list[i] );
 						if (i!= list.Count -1) Console.Write (", ");
 					}
-						Console.WriteLine ();	
+						Console.WriteLine ("\n");	
 				}
 				//Размер на List
-				
+					if (userinput.ToLower().Contains ("size"))
+					{
+						Console.WriteLine("размер на списъка: " + list.Count.ToString () + "\n");
+					}
 			} while(userinput != "exit");  
 		}
-	}}
+	}
+}
+
