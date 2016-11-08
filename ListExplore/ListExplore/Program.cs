@@ -42,12 +42,18 @@ namespace ListExplore
 				//Преглед на List
 					if (userinput.ToLower().Contains ("show"))
 				{
-					Console.Write ("list: ");
-					for (int i=0; i<list.Count; i++)
+					Console.Write ("Соисък: ");
+
+					foreach (int value in list) //заменяме цикъла for  с този, който работи с променливата за обход value
 					{
-						Console.Write (list[i] );
-						if (i!= list.Count -1) Console.Write (", ");
+						Console.Write(value.ToString() + ", ");
 					}
+
+//					for (int i=0; i<list.Count; i++)
+//					{
+//						Console.Write (list[i] );
+//						if (i!= list.Count -1) Console.Write (", ");
+//					}
 						Console.WriteLine ("\n");	
 				}
 				//Размер на List

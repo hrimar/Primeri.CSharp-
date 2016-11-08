@@ -2,7 +2,7 @@
   <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug|x86" />
   <MonoDevelop.Ide.Workbench ActiveDocument="Program.cs">
     <Files>
-      <File FileName="Program.cs" Line="44" Column="29" />
+      <File FileName="Program.cs" Line="33" Column="46" />
     </Files>
     <Pads>
       <Pad Id="ProjectPad">
@@ -18,8 +18,8 @@
   </MonoDevelop.Ide.Workbench>
   <MonoDevelop.Ide.DebuggingService.Breakpoints>
     <BreakpointStore>
-      <Breakpoint file="C:\aula\primeri.csharp.terminal\ListExplore\ListExplore\Program.cs" line="52" column="1" />
-      <Breakpoint file="C:\aula\primeri.csharp.terminal\ListExplore\ListExplore\Program.cs" line="53" column="1" />
+      <Breakpoint file="C:\aula\primeri.csharp.terminal\ListExplore\ListExplore\Program.cs" line="59" column="1" />
+      <Breakpoint file="C:\aula\primeri.csharp.terminal\ListExplore\ListExplore\Program.cs" line="60" column="1" />
     </BreakpointStore>
   </MonoDevelop.Ide.DebuggingService.Breakpoints>
   <MonoDevelop.Ide.DebuggingService.PinnedWatches />
