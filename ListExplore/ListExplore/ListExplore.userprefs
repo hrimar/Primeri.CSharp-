@@ -2,24 +2,13 @@
   <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug|x86" />
   <MonoDevelop.Ide.Workbench ActiveDocument="Program.cs">
     <Files>
-      <File FileName="Program.cs" Line="33" Column="46" />
+      <File FileName="Program.cs" Line="47" Column="107" />
     </Files>
-    <Pads>
-      <Pad Id="ProjectPad">
-        <State name="__root__">
-          <Node name="ListExplore" expanded="True">
-            <Node name="ListExplore" expanded="True">
-              <Node name="Program.cs" selected="True" />
-            </Node>
-          </Node>
-        </State>
-      </Pad>
-    </Pads>
   </MonoDevelop.Ide.Workbench>
   <MonoDevelop.Ide.DebuggingService.Breakpoints>
     <BreakpointStore>
-      <Breakpoint file="C:\aula\primeri.csharp.terminal\ListExplore\ListExplore\Program.cs" line="59" column="1" />
-      <Breakpoint file="C:\aula\primeri.csharp.terminal\ListExplore\ListExplore\Program.cs" line="60" column="1" />
+      <Breakpoint file="C:\aula\primeri.csharp.terminal\ListExplore\ListExplore\Program.cs" line="65" column="1" />
+      <Breakpoint file="C:\aula\primeri.csharp.terminal\ListExplore\ListExplore\Program.cs" line="66" column="1" />
     </BreakpointStore>
   </MonoDevelop.Ide.DebuggingService.Breakpoints>
   <MonoDevelop.Ide.DebuggingService.PinnedWatches />
