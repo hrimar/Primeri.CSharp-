@@ -38,7 +38,11 @@ namespace Modul05
                         Console.WriteLine(0);
                     }
                 }
-            }
+                if (usercommand.Contains("cmd5"))
+                {
+                    Console.WriteLine("брой четни числа: "+cmd5(usercommand).Length.ToString()); // при cmd5 5 -> 0,2,4 брой четни числа: 3
+                }
+                }
             while (usercommand != "exit");
 		}
 
@@ -48,7 +52,7 @@ namespace Modul05
 		{
 			try {
 				double temp = 0.0;
-				if (double.TryParse (input.Split (' ') [1], out temp))
+				if (double.TryParse (input.Split (' ') [1], out temp)) // разделя input с ' ' и взима 2-рия символ
 				{
 					Console.WriteLine ("\nРезултата от " + temp.ToString() + "^2: " + (temp * temp).ToString());
 				}
@@ -104,5 +108,28 @@ namespace Modul05
             return (temp>0); // това е аналог на горното т.е ще връща резулт само ако i>0
         }
 
+        // Модул 5, Урок 3: Идеята е потребит да въведе число и метода да върне всички четни числа до тоав число
+        static string[] cmd5(string input)
+        {
+            try
+            {
+                int border = 0;
+                string temp="";
+                if(int.TryParse(input.Split(' ')[1], out border))
+                {
+                    for (int i = 0; i < border; i++)
+                    {
+                        if (i % 2 == 0) temp += i.ToString();
+                        if (i != border - 1 && i % 2 == 0) temp += ","; // ако тов ан ее последния елем, то ще принтира ','
+                    }
+                    Console.WriteLine(temp);
+                    return temp.Split(',');
+                }
+            }
+            catch 
+            {
+            }
+            return new string[1] {"0"};
+        }
     }
 } 
